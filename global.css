@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-kyivtype-sans: "KyivType Sans";
+
+  /* font sizes */
+  --font-size-sm: 0.88rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-base: 1rem;
+
+  /* Colors */
+  --white: #fff;
+  --green-50: #f0fff4;
+  --green-100: #c6f6d5;
+  --color-honeydew-100: rgba(240, 255, 244, 0.5);
+  --gray-800: #1a202c;
+  --blackalpha-600: rgba(0, 0, 0, 0.48);
+  --blackalpha-200: rgba(0, 0, 0, 0.08);
+  --green-500: #38a169;
+  --green-600: #25855a;
+  --yellow-50: #fffff0;
+
+  /* Gaps */
+  --gap-base: 1rem;
+  --gap-13xl: 2rem;
+  --gap-5xs: 0.5rem;
+
+  /* Paddings */
+  --padding-13xl: 2rem;
+  --padding-5xs: 0.5rem;
+  --padding-9xs: 0.25rem;
+  --padding-12xs: 0.06rem;
+  --padding-11xs: 0.13rem;
+  --padding-5xl: 1.5rem;
+  --padding-4xs: 0.56rem;
+  --padding-base: 1rem;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+}
